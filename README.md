@@ -1,5 +1,5 @@
-#Omikuji Form
-####From Japanese, "Omikuji" translates to "message from God"
+# Omikuji Form
+#### From Japanese, "Omikuji" translates to "message from God"
 Handed out from temples and shrines, an Omikuji is a fortune-telling slip that gives you advice on how to spend your future
 
 This public repository contains a virtual Omikuji form you can fill in yourself.
