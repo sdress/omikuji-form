@@ -9,8 +9,17 @@
 <title>Omikuji</title>
 <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css" />
 <link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap" rel="stylesheet">
+<style>
+body{
+	font-family: "Merienda", cursive;
+}
+</style>
 </head>
 <body>
+
 <h1>Send an Omikuji &#128158;</h1>
 
 <div class="container box">
